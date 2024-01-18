@@ -57,7 +57,7 @@ Here are some screenshots to give you a glimpse of our website:
 
 ## License
 
-This project is licensed under the Natsasion License. For detailed information, please refer to the [LICENSE.md](LICENSE) file.
+This project is licensed under the License. For detailed information, please refer to the [LICENSE.md](LICENSE) file.
 
 ## Get Started
 
