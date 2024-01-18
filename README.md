@@ -67,6 +67,6 @@ For more details, visit the [Live website](https://restaurant-review-1xf7.onrend
 
 ## Contact
 
-If you have any inquiries or feedback, please feel free to reach out to us at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any inquiries or feedback, please feel free to reach out to us at 
 
 Step into the world of restaurant reviews with our Simple Restaurant Review Website!
